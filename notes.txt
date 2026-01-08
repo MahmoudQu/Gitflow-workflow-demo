@@ -1,2 +1,4 @@
-1111Initial project notes - updated in main branch.
+Initial project notes - updated in main branch.
 This line is from feature branch.
+A new line added from the main.
+A new line added from the feature branch.
